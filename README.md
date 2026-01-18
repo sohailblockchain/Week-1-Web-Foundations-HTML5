@@ -1,232 +1,107 @@
-📘 Week 1 – Web Foundations & HTML5 Labs
+# 📘 Week 1 – Web Foundations & HTML5 Labs
 
-Welcome to Week 1 Web Development Labs 🎉
-This repository contains hands-on HTML practice labs for beginners to learn the fundamentals of web development using HTML5 and semantic structure.
+Welcome to Week 1 HTML practice labs.  
+This repository contains daily hands-on exercises to help students learn **HTML5 and semantic structure**.
 
-These labs are part of the Web Development Training Program.
+---
 
-🎯 Week 1 Learning Goals
+## 🎯 Learning Goals
 
-By completing these labs, students will be able to:
+By the end of Week 1, students will be able to:
 
-Understand how websites work
+- Write basic HTML structure
+- Use semantic HTML5 tags
+- Create forms with validation
+- Embed audio, video, and iframes
+- Build a simple personal portfolio website
 
-Write basic HTML structure
+---
 
-Use semantic HTML5 tags
+## 📂 Folder Structure
 
-Create forms with validation
+Day 1 Lab/ → Basic HTML structure
+Day 2 Lab/ → Semantic HTML layout
+Day 3 Lab/ → Forms, multimedia, tables
+Day 5 Lab/ → Personal portfolio project
 
-Embed multimedia (audio, video, iframe)
+Week 1 Web Foundations & HTML5.zip
+course_outline_pitp_muet.pdf
 
-Build a simple personal portfolio
 
-📂 Repository Structure
-Week-1-Web-Foundations-HTML5/
-│
-├── Day 1 Lab/
-├── Day 2 Lab/
-├── Day 3 Lab/
-├── Day 5 Lab/
-│
-├── Week 1 Web Foundations & HTML5.zip
-└── course_outline_pitp_muet.pdf
 
+---
 
-Each folder contains practice files for that day.
+## 🧪 Day 1 Lab — Introduction to HTML
 
-🧪 Day 1 Lab — Introduction to HTML
-📌 Topics Covered
+**Topics:**
+- HTML structure
+- Headings and paragraphs
 
-What is HTML
+**Practice:**
+- Create first webpage using `<h1>` and `<p>`
 
-HTML document structure
+---
 
-Headings and paragraphs
+## 🧪 Day 2 Lab — Semantic HTML
 
-Creating your first webpage
+**Topics:**
+- `header`, `nav`, `main`, `section`, `article`, `footer`
 
-✅ Tasks
+**Practice:**
+- Build blog-style layout using semantic tags
 
-Students will:
+---
 
-Create index.html
+## 🧪 Day 3 Lab — Forms & Multimedia
 
-Add heading using <h1>
+**Topics:**
+- Forms with validation
+- Audio & video
+- Iframes
+- Tables
 
-Add paragraph using <p>
+**Practice:**
+- Contact form
+- Embedded media
+- Student data table
 
-Open HTML file in browser
+---
 
-🎯 Goal
+## 🧪 Day 5 Lab — Personal Portfolio Project
 
-Understand how HTML builds webpage structure.
+**Project:**
+Build a multi-page personal portfolio website using HTML only.
 
-🧪 Day 2 Lab — Semantic HTML Structure
-📌 Topics Covered
+**Pages:**
+- `index.html` (Home / About)
+- `projects.html`
+- `contact.html`
+- `resume.html` (optional)
 
-Semantic tags:
+**Requirements:**
+- Same navigation on all pages
+- Semantic HTML layout
+- Contact form with labels and validation
 
-header
+---
 
-nav
+## 📦 ZIP & Course Outline
 
-main
+- ZIP file contains all practice materials
+- PDF contains full course outline
 
-section
+---
 
-article
+## ⭐ For Students
 
-footer
+If this repository helps you, please **give it a STAR ⭐ on GitHub**  
+and keep practicing daily 💻🔥
 
-✅ Tasks
+---
 
-Students will:
+## 👨‍🏫 Instructor
 
-Build a blog-style layout
-
-Separate content using semantic sections
-
-Create navigation menu
-
-🎯 Goal
-
-Learn how to structure webpages professionally and improve accessibility & SEO.
-
-🧪 Day 3 Lab — Forms, Multimedia & Tables
-📌 Topics Covered
-
-HTML forms & validation
-
-Audio and video tags
-
-Iframes (YouTube / Maps)
-
-Tables for data
-
-✅ Tasks
-
-Students will:
-
-Create contact form with validation
-
-Embed audio and video
-
-Add iframe content
-
-Build student data table
-
-🎯 Goal
-
-Learn how real websites collect data and display media.
-
-🧪 Day 5 Lab — Personal Portfolio Website (Project)
-📌 Project Description
-
-Students will build a multi-page personal portfolio website using only HTML.
-
-📄 Pages to Create
-
-index.html → Home / About
-
-projects.html → Projects showcase
-
-contact.html → Contact form
-
-resume.html (optional)
-
-📁 Folder Structure
-portfolio/
-├── index.html
-├── projects.html
-├── contact.html
-└── assets/
-    └── images/
-
-✅ Requirements
-
-Same header and navigation on all pages
-
-Semantic HTML layout
-
-Contact form with labels and validation
-
-Working page navigation
-
-🎯 Goal
-
-Prepare students for CSS styling in Week 2.
-
-📦 ZIP Package
-
-Week 1 Web Foundations & HTML5.zip contains:
-
-All lab files
-
-Lecture examples
-
-Practice templates
-
-Students can download and practice offline.
-
-📄 Course Outline
-
-course_outline_pitp_muet.pdf includes:
-
-Full training roadmap
-
-Weekly objectives
-
-Skills progression
-
-🧠 How Students Should Practice
-
-Open each lab folder
-
-Read instructions in files (if provided)
-
-Edit HTML using VS Code
-
-Open files in browser
-
-Practice changing text and structure
-
-📤 Assignment Submission (If Required)
-
-Students may be asked to submit:
-
-HTML files
-
-Portfolio folder
-
-Screenshots of output
-
-Follow instructor’s submission instructions.
-
-🚀 What’s Next?
-
-In Week 2, students will learn:
-
-CSS styling
-
-Colors and fonts
-
-Layout and spacing
-
-Responsive design basics
-
-HTML structure built in Week 1 will be styled using CSS.
-
-👨‍🏫 Instructor
-
-Sohail Ahmed
+**Sohail Ahmed**  
 Senior Software Engineer & Full Stack Blockchain Engineer
-Web Development Instructor
 
-⭐ Support the Repository
 
-If you are a student of this course:
-
-👉 Please STAR ⭐ this repository on GitHub to support learning resources.
-
-Happy Coding 💻🔥
